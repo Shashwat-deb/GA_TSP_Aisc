@@ -1,0 +1,6 @@
+Method,Length (km),Gap to optimum (%)
+"Random search (same budget, mean of 3)",9930.4,32.8
+Nearest neighbour,9169.4,22.6
+Genetic Algorithm (mean of 10 runs),7526.9,0.6
+Genetic Algorithm (best of 10 runs),7478.9,0.0
+Exact optimum (Held-Karp),7478.9,0.0
